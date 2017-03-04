@@ -1,2 +1,4 @@
 # Time-domain-Single-pixel-Imaging-Based-on-the-Compressed-Sensing-Theory
- simulation in Matlab
+ Simulation in Matlab
+
+In sensing basis folder, I provided 6 kind of sensing matrix.
